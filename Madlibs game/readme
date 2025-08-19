@@ -1,0 +1,23 @@
+# Mad Libs Game
+
+A simple Python command-line game that generates funny stories based on user input.
+
+## What I Learned / Practiced
+
+This project helped me practice the fundamentals of Python:
+- Using the `input()` function to get user data.
+- Storing data in **variables**.
+- Using **f-strings** for formatting and printing output.
+- Applying string methods like `.title()`.
+
+## How to Run
+
+1.  Make sure you have Python installed on your computer.
+2.  Navigate to this project's folder in your terminal/command prompt.
+3.  Type the following command and press Enter:
+    ```bash
+    python madlibs.py
+    ```
+4.  Follow the prompts on the screen to create your story!
+
+## Example
